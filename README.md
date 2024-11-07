@@ -8,10 +8,6 @@
   Experienced in building responsive, appealing web applications with React.js and Tailwind CSS, crafting interfaces that
   are simple, intuitive, and engaging.
 
-- <b> User-Centered Approach: </b> <br />
-  Committed to developing applications that are easy to use and visually appealing, prioritizing the needs of users to
-  make their experience straightforward and enjoyable.
-
 - <b> API Integration and Performance Optimization: </b> <br />
   Proficient in connecting to RESTful APIs to create efficient and well-functioning applications that work smoothly on
   different devices and screen sizes.
@@ -79,7 +75,7 @@
 ## Connect with me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img
+    <a href="https://www.linkedin.com/in/sandeepdpagade/" target="_blank"><img 
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/u/sandeepdpagade/" target="_blank"><img
             src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
@@ -119,11 +115,11 @@
 
 <br>
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&theme=github_dark_dimmed&hide_border=true)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 
@@ -133,12 +129,14 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=sandeepdpagade&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sandeepdpagade&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sandeepdpagade&icon=8&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
