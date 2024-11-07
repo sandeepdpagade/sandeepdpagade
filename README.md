@@ -1,7 +1,7 @@
 # Hi, I'm Sandeep Pagade
 
 # About Me:
-- <b> Expertise in MERN Stack: </b> <br/>
+- <b> Skilled in MERN Stack: </b> <br/>
 Proficient in building responsive and visually engaging web applications using React.js and Tailwind CSS. I excel in creating clean, intuitive user interfaces that enhance usability and engagement.
 
 - <b> API Integration and Performance Optimization: </b> <br/>
