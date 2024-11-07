@@ -39,7 +39,7 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 ### Frontend  
 <a href="https://github.com/sandeepdpagade">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,reactjs&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
