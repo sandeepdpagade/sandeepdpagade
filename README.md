@@ -3,13 +3,15 @@
 # 💫 About Me:
 I am a Frontend developer with expertise in the MERN stack, creating responsive, visually appealing web applications with Reactjs and Tailwind CSS. Skilled in designing clean, intuitive interfaces, seamlessly integrating RESTful APIs, and ensuring optimal performance across devices. Experienced in using Git for version control and thriving in Agile environments to deliver high-quality, user-centered solutions effectively.
 
-
+<pre>
+  
   ___  _   _ _____ ____ ___ _____ ____ _____   ___ ____    ____  _____    _    _     
  / _ \| \ | | ____|  _ \_ _| ____/ ___| ____| |_ _/ ___|  |  _ \| ____|  / \  | |    
 | | | |  \| |  _| | |_) | ||  _|| |   |  _|    | |\___ \  | |_) |  _|   / _ \ | |    
 | |_| | |\  | |___|  __/| || |__| |___| |___   | | ___) | |  _ <| |___ / ___ \| |___ 
  \___/|_| \_|_____|_|  |___|_____\____|_____| |___|____/  |_| \_\_____/_/   \_\_____|
 
+</pre>
 
 ## Skill Set:
 
