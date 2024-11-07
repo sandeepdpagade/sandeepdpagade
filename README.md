@@ -83,6 +83,8 @@
             src="https://img.shields.io/badge/-Sandeep%20Pagade-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/u/sandeepdpagade/" target="_blank"><img
             src="https://img.shields.io/badge/-Sandeep%20Pagade-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
+    <a href="https://gitlab.com/sandyyy-24" target="_blank"><img
+        src="https://img.shields.io/badge/-Sandeep%20Pagade-FFA116?style=flat&logo=Gitlab&logoColor=white" /></a>
 </div>
 
 ## Github Stats:
