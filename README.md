@@ -1,8 +1,9 @@
 # Hi, I'm Sandeep Pagade
 
-# About Me: <br/><br/> ## Frontend Dev -
+# About Me: <br/><br/>
+Frontend Dev -
 
-- <b> Skilled in MERN Stack: </b> <br/>
+- ** Skilled in MERN Stack: **  <br/>
 Experienced in building responsive, appealing web applications with React.js and Tailwind CSS, crafting interfaces that are simple, intuitive, and engaging.
 
 - <b> User-Centered Approach: </b> <br/>
