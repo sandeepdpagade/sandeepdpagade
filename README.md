@@ -1,22 +1,26 @@
 # Hi, I'm Sandeep Pagade
 
 # About Me:
-<b> Frontend Dev - </b> <br/>
+<b> Frontend Dev - </b> <br />
 
-- <b> Skilled in MERN Stack: </b>  <br/>
-Experienced in building responsive, appealing web applications with React.js and Tailwind CSS, crafting interfaces that are simple, intuitive, and engaging.
+- <b> Skilled in MERN Stack: </b> <br />
+Experienced in building responsive, appealing web applications with React.js and Tailwind CSS, crafting interfaces that
+are simple, intuitive, and engaging.
 
-- <b> User-Centered Approach: </b> <br/>
-Committed to developing applications that are easy to use and visually appealing, prioritizing the needs of users to make their experience straightforward and enjoyable.
+- <b> User-Centered Approach: </b> <br />
+Committed to developing applications that are easy to use and visually appealing, prioritizing the needs of users to
+make their experience straightforward and enjoyable.
 
-- <b> API Integration and Performance Optimization: </b> <br/>
-Proficient in connecting to RESTful APIs to create efficient and well-functioning applications that work smoothly on different devices and screen sizes.
+- <b> API Integration and Performance Optimization: </b> <br />
+Proficient in connecting to RESTful APIs to create efficient and well-functioning applications that work smoothly on
+different devices and screen sizes.
 
-- <b> Agile Collaboration & Version Control: </b> <br/>
-Familiar with working in Agile settings, using Git for tracking changes, and collaborating smoothly with team members to deliver high-quality, timely work.
+- <b> Agile Collaboration & Version Control: </b> <br />
+Familiar with working in Agile settings, using Git for tracking changes, and collaborating smoothly with team members to
+deliver high-quality, timely work.
 
 <pre>
-  
+
  _____                                                                                           _____ 
 ( ___ )                                                                                         ( ___ )
  |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
@@ -34,33 +38,38 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
+<table>
+    <tr>
+        <td valign="top" width="25%">
 
-### Frontend  
-<a href="https://github.com/sandeepdpagade">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=react,tailwind,js,bootstrap,html,css&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/sandeepdpagade">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,python,cpp&perline=4" /> 
-</div>
-</a>
+            ### Frontend
+            <a href="https://github.com/sandeepdpagade">
+                <div align="center">
+                    <img src="https://skillicons.dev/icons?i=react,tailwind,js,bootstrap,html,css&perline=4" />
+                </div>
+            </a>
+        </td>
+        <td valign="top" width="25%">
 
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/sandeepdpagade">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,gitlab,github,npm,figma,vscode,vercel,aws&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
+            ### Languages
+            <a href="https://github.com/sandeepdpagade">
+                <div align="center">
+                    <img src="https://skillicons.dev/icons?i=js,python,cpp&perline=4" />
+                </div>
+            </a>
+
+        </td>
+        <td valign="top" width="25%">
+
+            ### Others
+            <a href="https://github.com/sandeepdpagade">
+                <div align="center">
+                    <img src="https://skillicons.dev/icons?i=git,gitlab,github,npm,figma,vscode,vercel,aws&perline=4" />
+                </div>
+            </a>
+        </td>
+    </tr>
+</table>
 
 
 
@@ -87,10 +96,28 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
     </a>
 </p>
 
+<!-- Activity Graph -->
+<p align="center">
+    <a href="https://github.com/sandeepdpagade">
+        <img height=250
+            src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepdpagade&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px" />
+    </a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/sandeepdpagade">
+        <img width="80%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" />
+    </a>
+</p>
+
+<br>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&theme=github_dark_dimmed&hide_border=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
