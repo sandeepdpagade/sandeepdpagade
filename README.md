@@ -105,7 +105,7 @@
 <br>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sandeepdpagade&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
@@ -113,7 +113,11 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sandeepdpagade&icon=8&color=5)](https://visitcount.itsvg.in)
+<div id="header" align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sandeepdpagade&style=for-the-badge&color=orange" alt="" />
+
+</div>
 
 <br>
 
