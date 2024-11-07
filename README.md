@@ -80,11 +80,11 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img
-            src="https://img.shields.io/badge/-Sandeep%20Pagade-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/u/sandeepdpagade/" target="_blank"><img
-            src="https://img.shields.io/badge/-Sandeep%20Pagade-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
+            src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
     <a href="https://gitlab.com/sandyyy-24" target="_blank"><img
-        src="https://img.shields.io/badge/-Sandeep%20Pagade-FFA116?style=flat&logo=Gitlab&logoColor=white" /></a>
+        src="https://img.shields.io/badge/-GitLab-FFA116?style=flat&logo=Gitlab&logoColor=white" /></a>
 </div>
 
 ## Github Stats:
