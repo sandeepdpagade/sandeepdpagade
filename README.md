@@ -2,7 +2,7 @@
 
 # About Me:
 
-## Frontend Dev
+# Frontend Dev -
 
 - <b> Skilled in MERN Stack: </b> <br/>
 Experienced in building responsive, appealing web applications with React.js and Tailwind CSS, crafting interfaces that are simple, intuitive, and engaging.
