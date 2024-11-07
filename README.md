@@ -1,14 +1,17 @@
 # Hi, I'm Sandeep Pagade
 
 # About Me:
-- <b> Expertise in MERN Stack: </b> 
+- <b> Expertise in MERN Stack: </b> <br/>
 Proficient in building responsive and visually engaging web applications using React.js and Tailwind CSS. I excel in creating clean, intuitive user interfaces that enhance usability and engagement.
 
-- <b> API Integration and Performance Optimization: </b> Skilled in seamlessly integrating RESTful APIs to deliver efficient, scalable solutions, ensuring smooth performance and accessibility across all device types.
+- <b> API Integration and Performance Optimization: </b> <br/>
+  Skilled in seamlessly integrating RESTful APIs to deliver efficient, scalable solutions, ensuring smooth performance and accessibility across all device types.
 
-- <b> User-Centered Approach: </b> Passionate about delivering user-friendly applications with a focus on usability, accessibility, and aesthetic appeal. My designs prioritize users' needs and streamline their interaction with the application.
+- <b> User-Centered Approach: </b> <br/>
+  Passionate about delivering user-friendly applications with a focus on usability, accessibility, and aesthetic appeal. My designs prioritize users' needs and streamline their interaction with the application.
 
-- <b> Agile Collaboration & Version Control: </b> Experienced in Agile development environments, utilizing Git for version control to collaborate effectively and ensure timely, high-quality releases that meet project goals and user expectations.
+- <b> Agile Collaboration & Version Control: </b> <br/>
+  Experienced in Agile development environments, utilizing Git for version control to collaborate effectively and ensure timely, high-quality releases that meet project goals and user expectations.
 
 <pre>
   
