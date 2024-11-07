@@ -39,7 +39,7 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 ### Frontend  
 <a href="https://github.com/sandeepdpagade">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,reactjs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=react,tailwind,js,bootstrap,html,css&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -47,7 +47,7 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 ### Languages
 <a href="https://github.com/sandeepdpagade">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,python,cpp&perline=4" /> 
 </div>
 </a>
 
@@ -56,7 +56,7 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 ### Others
 <a href="https://github.com/sandeepdpagade">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,gitlab,github,npm,figma,vscode,vercel,aws&perline=4" /> 
 </div>
 </a>
 </td>
@@ -69,11 +69,25 @@ Familiar with working in Agile settings, using Git for tracking changes, and col
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep Pagade) 
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img
+            src="https://img.shields.io/badge/-Sandeep%20Pagade-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/sandeepdpagade/" target="_blank"><img
+            src="https://img.shields.io/badge/-Sandeep%20Pagade-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/sandeepdpagade">
+        <img height="180em"
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandeepdpagade&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandeepdpagade&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&theme=github_dark_dimmed&hide_border=true)<br/>
