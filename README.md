@@ -4,6 +4,20 @@
 I am a Frontend developer with expertise in the MERN stack, creating responsive, visually appealing web applications with Reactjs and Tailwind CSS. Skilled in designing clean, intuitive interfaces, seamlessly integrating RESTful APIs, and ensuring optimal performance across devices. Experienced in using Git for version control and thriving in Agile environments to deliver high-quality, user-centered solutions effectively.
 
 
+ _____                                                                                                         _____ 
+( ___ )                                                                                                       ( ___ )
+ |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+ |   |                                                                                                         |   | 
+ |   |     ___  _   _ _____ ____ ___ _____ ____ _____   ____   ___  _____ ____    _______  _____ ____ _____    |   | 
+ |   |    / _ \| \ | | ____|  _ \_ _| ____/ ___| ____| |  _ \ / _ \| ____/ ___|  | ____\ \/ /_ _/ ___|_   _|   |   | 
+ |   |   | | | |  \| |  _| | |_) | ||  _|| |   |  _|   | | | | | | |  _| \___ \  |  _|  \  / | |\___ \ | |     |   | 
+ |   |   | |_| | |\  | |___|  __/| || |__| |___| |___  | |_| | |_| | |___ ___) | | |___ /  \ | | ___) || |     |   | 
+ |   |    \___/|_| \_|_____|_|  |___|_____\____|_____| |____/ \___/|_____|____/  |_____/_/\_\___|____/ |_|     |   | 
+ |   |                                                                                                         |   | 
+ |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+(_____)                                                                                                       (_____)
+
+
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
