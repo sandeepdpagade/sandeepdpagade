@@ -89,8 +89,6 @@
     <a href="https://github.com/sandeepdpagade">
         <img height="150em"
             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandeepdpagade&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
-        <!-- <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandeepdpagade&langs_count=12&layout=compact&langs_count=8&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" /> -->
         <img height="150em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&show_icons=true&locale=en&layout=demo&theme=github_dark_dimmed&hide_border=true" />
     </a>
@@ -104,34 +102,14 @@
     </a>
 </p>
 
-<!-- <p align="center">
-    <a href="https://github.com/sandeepdpagade">
-        <img width="80%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&show_icons=true&locale=en&layout=demo&theme=github_dark_dimmed&hide_border=true" />
-    </a>
-</p> -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
 <br>
 
-<!-- # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&theme=github_dark_dimmed&hide_border=true)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdpagade&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sandeepdpagade&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- ### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sandeepdpagade&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 
