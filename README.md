@@ -42,7 +42,7 @@ deliver high-quality, timely work.
     <tr>
         <td valign="top" width="25%">
 
-            ### Frontend
+### Frontend
             <a href="https://github.com/sandeepdpagade">
                 <div align="center">
                     <img src="https://skillicons.dev/icons?i=react,tailwind,js,bootstrap,html,css&perline=4" />
@@ -51,7 +51,7 @@ deliver high-quality, timely work.
         </td>
         <td valign="top" width="25%">
 
-            ### Languages
+### Languages
             <a href="https://github.com/sandeepdpagade">
                 <div align="center">
                     <img src="https://skillicons.dev/icons?i=js,python,cpp&perline=4" />
@@ -61,7 +61,7 @@ deliver high-quality, timely work.
         </td>
         <td valign="top" width="25%">
 
-            ### Others
+### Others
             <a href="https://github.com/sandeepdpagade">
                 <div align="center">
                     <img src="https://skillicons.dev/icons?i=git,gitlab,github,npm,figma,vscode,vercel,aws&perline=4" />
