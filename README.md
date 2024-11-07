@@ -91,11 +91,11 @@
 
 <p align="center">
     <a href="https://github.com/sandeepdpagade">
-        <img height="180em" width="50%"
+        <img width="50%"
             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandeepdpagade&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
         <!-- <img height="180em"
             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandeepdpagade&langs_count=12&layout=compact&langs_count=8&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" /> -->
-        <img height="180em" width="50%"
+        <img width="50%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdpagade&show_icons=true&locale=en&layout=demo&theme=github_dark_dimmed&hide_border=true" />
     </a>
 </p>
