@@ -1,4 +1,4 @@
-# Hi, I'm Sandeep Pagade - <a href= "https://sandeep-pagade.netlify.app/"> (Portfolio webiste)</a>
+# Hi, I'm Sandeep Pagade - <a href= "https://sandeep-pagade.netlify.app/"> (Portfolio)</a>
 
 # About Me:
 
